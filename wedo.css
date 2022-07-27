@@ -12,7 +12,6 @@ img{border: 0;}
 .ad{ width:960px; height:100px; background:#FF0000; padding:0px;}
 
 /*通用样式*/
-.fl{float: left;}
 .fr{text-align: center;}
 .clear{clear:both;}
 .clearfix:after {content: "."; display: block; height: 0; clear: both; visibility: hidden;}
